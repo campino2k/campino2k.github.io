@@ -29,7 +29,7 @@ jobs:
 
       - run: npx pnpm install
 #       - run: npm test
-      - run: npx pnpm run generate
+      - run: npx pnpm run build
 
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3
