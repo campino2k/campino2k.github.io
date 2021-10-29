@@ -187,7 +187,7 @@
     "/assets/about.8b6af818.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/[name].d0b9012b.js"
+    "/assets/[name].18a676dd.js"
   ],
   "src/pages/[...all].vue?vue&type=route&index=0&lang.yaml": [
     "/assets/[...all].d714fe96.js"
@@ -199,6 +199,6 @@
     "/assets/404.45ed3e78.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.5719eefc.js"
+    "/assets/home.4a41bab8.js"
   ]
 }
