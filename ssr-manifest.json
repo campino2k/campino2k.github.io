@@ -33,172 +33,136 @@
   "../../../../../@windicss/windi-utilities.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "node_modules/.pnpm/@intlify+shared@9.1.9/node_modules/@intlify/shared/dist/shared.esm-bundler.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@intlify/shared/dist/shared.esm-bundler.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@intlify+message-resolver@9.1.9/node_modules/@intlify/message-resolver/dist/message-resolver.esm-bundler.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@intlify/message-resolver/dist/message-resolver.esm-bundler.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@intlify+runtime@9.1.9/node_modules/@intlify/runtime/dist/runtime.esm-bundler.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@intlify/runtime/dist/runtime.esm-bundler.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@intlify+message-compiler@9.1.9/node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@intlify+devtools-if@9.1.9/node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@intlify+core-base@9.1.9/node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+shared@3.2.20/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+reactivity@3.2.20/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+runtime-core@3.2.20/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+runtime-dom@3.2.20/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/vue@3.2.20/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/env.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vue/devtools-api/lib/esm/env.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/const.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vue/devtools-api/lib/esm/const.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/proxy.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/api/api.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vue/devtools-api/lib/esm/api/api.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/api/app.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vue/devtools-api/lib/esm/api/app.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/api/component.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vue/devtools-api/lib/esm/api/component.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/api/context.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vue/devtools-api/lib/esm/api/context.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/api/util.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vue/devtools-api/lib/esm/api/util.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/api/index.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vue/devtools-api/lib/esm/api/index.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/plugin.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vue/devtools-api/lib/esm/plugin.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.18/node_modules/@vue/devtools-api/lib/esm/index.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vue/devtools-api/lib/esm/index.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@intlify+vue-devtools@9.1.9/node_modules/@intlify/vue-devtools/dist/vue-devtools.esm-bundler.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@intlify/vue-devtools/dist/vue-devtools.esm-bundler.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/vue-i18n@9.1.9_vue@3.2.20/node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [
+    "/assets/vendor.e116366d.js"
   ],
   "\u0000commonjsHelpers.js": [
-    "/assets/vendor.6364a0e9.js"
+    "/assets/vendor.e116366d.js"
   ],
-  "\u0000/home/runner/work/campino2k.github.io/campino2k.github.io/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [
-    "/assets/vendor.6364a0e9.js"
+  "\u0000/home/runner/work/campino2k.github.io/campino2k.github.io/node_modules/nprogress/nprogress.js?commonjs-module": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/nprogress/nprogress.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/vue-demi@0.11.4_vue@3.2.20/node_modules/vue-demi/lib/index.mjs": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/vue-demi/lib/index.mjs": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/env.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/pinia/dist/pinia.esm-browser.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/const.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/vite-ssg/dist/chunk-YPUM4SRK.mjs": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/proxy.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/vite-ssg/dist/chunk-UH52UDT5.mjs": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/api/api.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/vue-router/dist/vue-router.esm-bundler.js": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/api/app.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/@vueuse/head/dist/index.mjs": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/api/component.js": [
-    "/assets/vendor.6364a0e9.js"
+  "node_modules/vite-ssg/dist/index.mjs": [
+    "/assets/vendor.e116366d.js"
   ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/api/context.js": [
-    "/assets/vendor.6364a0e9.js"
-  ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
-    "/assets/vendor.6364a0e9.js"
-  ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/api/util.js": [
-    "/assets/vendor.6364a0e9.js"
-  ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/api/index.js": [
-    "/assets/vendor.6364a0e9.js"
-  ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/plugin.js": [
-    "/assets/vendor.6364a0e9.js"
-  ],
-  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.19/node_modules/@vue/devtools-api/lib/esm/index.js": [
-    "/assets/vendor.6364a0e9.js"
-  ],
-  "node_modules/.pnpm/pinia@2.0.0-rc.14_typescript@4.4.4+vue@3.2.20/node_modules/pinia/dist/pinia.esm-bundler.js": [
-    "/assets/vendor.6364a0e9.js"
-  ],
-  "node_modules/.pnpm/vite-ssg@0.15.5_a0a90783c90c5f513849e8cf8a8751aa/node_modules/vite-ssg/dist/chunk-YPUM4SRK.mjs": [
-    "/assets/vendor.6364a0e9.js"
-  ],
-  "node_modules/.pnpm/vite-ssg@0.15.5_a0a90783c90c5f513849e8cf8a8751aa/node_modules/vite-ssg/dist/chunk-UH52UDT5.mjs": [
-    "/assets/vendor.6364a0e9.js"
-  ],
-  "node_modules/.pnpm/vue-router@4.0.12_vue@3.2.20/node_modules/vue-router/dist/vue-router.esm-bundler.js": [
-    "/assets/vendor.6364a0e9.js"
-  ],
-  "node_modules/.pnpm/@vueuse+head@0.6.0_vue@3.2.20/node_modules/@vueuse/head/dist/index.mjs": [
-    "/assets/vendor.6364a0e9.js"
-  ],
-  "node_modules/.pnpm/vite-ssg@0.15.5_a0a90783c90c5f513849e8cf8a8751aa/node_modules/vite-ssg/dist/index.mjs": [
-    "/assets/vendor.6364a0e9.js"
-  ],
-  "node_modules/.pnpm/workbox-window@6.3.0/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
+  "node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
     "/assets/virtual_pwa-register.932ceed5.js"
   ],
   "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
     "/assets/virtual_pwa-register.932ceed5.js"
   ],
   "src/pages/README.md": [
-    "/assets/README.31bdb7c9.js"
+    "/assets/README.4da7e567.js"
   ],
   "src/pages/about.md": [
-    "/assets/about.8b6af818.js"
+    "/assets/about.a9a485e2.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/[name].18a676dd.js"
+    "/assets/[name].6be2a0cd.js"
   ],
   "src/pages/[...all].vue?vue&type=route&index=0&lang.yaml": [
-    "/assets/[...all].d714fe96.js"
+    "/assets/[...all].6704c3b5.js"
   ],
   "src/pages/[...all].vue": [
-    "/assets/[...all].d714fe96.js"
+    "/assets/[...all].6704c3b5.js"
   ],
   "src/layouts/404.vue": [
-    "/assets/404.45ed3e78.js"
+    "/assets/404.e63e1a10.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.4a41bab8.js"
+    "/assets/home.5ad3aad5.js"
   ]
 }
