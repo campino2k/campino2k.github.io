@@ -1,64 +1,28 @@
-<script setup lang="ts">
-import { useUserStore } from '~/stores/user'
-
-const user = useUserStore()
-const name = ref(user.savedName)
-
-const router = useRouter()
-const go = () => {
-  if (name.value)
-    router.push(`/hi/${encodeURIComponent(name.value)}`)
-}
-
-const { t } = useI18n()
-</script>
 
 <template>
   <div>
-    <p class="text-4xl">
-      <carbon-campsite class="inline-block" />
-    </p>
-    <p>
-      <a rel="noreferrer" href="https://github.com/antfu/vitesse" target="_blank">
-        Vitesse
-      </a>
-    </p>
-    <p>
-      <em class="text-sm opacity-75">{{ t('intro.desc') }}</em>
-    </p>
-
-    <div class="py-4" />
-
-    <input
-      id="input"
-      v-model="name"
-      :placeholder="t('intro.whats-your-name')"
-      :aria-label="t('intro.whats-your-name')"
-      type="text"
-      autocomplete="false"
-      p="x-4 y-2"
-      w="250px"
-      text="center"
-      bg="transparent"
-      border="~ rounded gray-200 dark:gray-700"
-      outline="none active:none"
-      @keydown.enter="go"
+    <h1
+      class="pb-[45px]"
+      text="uppercase 5xl "
     >
-    <label class="hidden" for="input">{{ t('intro.whats-your-name') }}</label>
-
-    <div>
-      <button
-        class="m-3 text-sm btn"
-        :disabled="!name"
-        @click="go"
-      >
-        {{ t('button.go') }}
-      </button>
+      <span
+        class="inline-block px-4 py-2 transform transform-gpu"
+        bg="warm-gray-600"
+        text="warm-gray-200"
+        transform="-rotate-3"
+      >Chris</span>
+      <span class="sr-only">&nbsp;</span>
+      <span
+        class="inline-block px-4 py-2 transform transform-gpu "
+        bg="warm-gray-200"
+        text="warm-gray-600"
+        transform="rotate-12"
+      >Jung</span>
+    </h1>
+    <div class="uppercase leading-loose tracking-wider">
+      <h2>Senior Fullstack Developer @ DB Systel GmbH by day,</h2>
+      <h2>Freelance Fullstack Developer at night.</h2>
     </div>
+    <GithubRepos></GithubRepos>
   </div>
 </template>
-
-<route lang="yaml">
-meta:
-  layout: home
-</route>
