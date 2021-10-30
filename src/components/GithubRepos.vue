@@ -13,7 +13,7 @@ const user = reactive(data)
 <template>
   <div v-if="!isFetching && data">
     <!--pre>{{ user }}</pre-->
-    <div class="flex gap-3">
+    <div class="flex justify-center gap-3">
       <github-repo-card
         name="Repositories"
         :value="user.public_repos"

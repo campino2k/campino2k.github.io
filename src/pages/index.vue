@@ -26,6 +26,6 @@ import GithubRepos from '~/components/GithubRepos.vue'
       <h2>Senior Fullstack Developer @ DB Systel GmbH by day,</h2>
       <h2>Freelance Fullstack Developer at night.</h2>
     </div>
-    <GithubRepos />
+    <GithubRepos class="mt-4" />
   </div>
 </template>

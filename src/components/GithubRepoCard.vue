@@ -8,8 +8,13 @@ const props = defineProps<{
 </script>
 
 <template>
-  <div>
-    <span>
+  <div
+    class="border p-4 rounded-lg shadow-lg dark:shadow-light-900 grid"
+    grid="row-auto gap-2"
+  >
+    <span
+      font="bold"
+    >
       {{ props.name }}
     </span>
     <hr>
