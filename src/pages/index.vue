@@ -1,3 +1,6 @@
+<script setup lang="ts">
+import GithubRepos from '~/components/GithubRepos.vue'
+</script>
 
 <template>
   <div>
@@ -23,6 +26,6 @@
       <h2>Senior Fullstack Developer @ DB Systel GmbH by day,</h2>
       <h2>Freelance Fullstack Developer at night.</h2>
     </div>
-    <GithubRepos></GithubRepos>
+    <GithubRepos />
   </div>
 </template>
