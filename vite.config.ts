@@ -42,8 +42,8 @@ export default defineConfig({
         'vue',
         'vue-router',
         'vue-i18n',
-        '@vueuse/head',
         '@vueuse/core',
+        '@vueuse/head',
       ],
       dts: 'src/auto-imports.d.ts',
     }),
@@ -62,7 +62,7 @@ export default defineConfig({
         // https://github.com/antfu/unplugin-icons
         IconsResolver({
           componentPrefix: '',
-          enabledCollections: ['bi', 'carbon'],
+          // enabledCollections: ['bi'],
         }),
       ],
 
