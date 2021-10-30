@@ -4,7 +4,6 @@
 
 declare module 'vue' {
   export interface GlobalComponents {
-    Footer: typeof import('./components/Footer.vue')['default']
     Gear: typeof import('./components/Icons/Gear.vue')['default']
     GithubRepoCard: typeof import('./components/GithubRepoCard.vue')['default']
     GithubRepos: typeof import('./components/GithubRepos.vue')['default']
